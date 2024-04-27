@@ -2,7 +2,7 @@ import sys
 from PyQt5 import uic, QtWidgets, QtGui
 from PyQt5.QtWidgets import QMessageBox
 
-from GUI.League.team_member import TeamMember
+from League.team_member import TeamMember
 
 Ui_League_Manager_Main, QtBaseWindow = uic.loadUiType("edit_team_dialog.ui")
 

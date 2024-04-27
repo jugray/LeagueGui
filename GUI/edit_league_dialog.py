@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import QMessageBox
 
 from new_team import NewTeamDialog
 from edit_team_dialog import EditTeamDialog
-from GUI.League.team import Team
+from League.team import Team
 
 """
  League editor shows list of teams in the league being edited.  Has import/export menu items or buttons that raise 
