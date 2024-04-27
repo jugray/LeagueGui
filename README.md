@@ -2,7 +2,7 @@
 
 LeagueGui is a PyQt GUI created for use with the Curling League model.
 
-![img.png](img.png)
+![img.png](GUI/img/img.png)
 ## Installation
 
 Install required packages via [pip](https://pip.pypa.io/en/stable/) prior to running the application.
@@ -21,7 +21,7 @@ LeagueGUI is designed to make managing your curling leauge database quick and ea
 
 1.) Main Window
 -
-![img.png](img.png)
+![img.png](GUI/img/img.png)
 
 - Add  a league
 - Edit a league
@@ -35,7 +35,7 @@ at the top of this window.
 
 2.) League Editor
 -
-![img_1.png](img_1.png)
+![img_1.png](GUI/img/img_1.png)
 
 - Add a team
 - Edit a team
@@ -47,7 +47,7 @@ If you have .csv file containing a list of teams you can import them here as wel
 
 3.) Team Editor
 -
-![img_2.png](img_2.png)
+![img_2.png](GUI/img/img_2.png)
 
 - Add a team member
 - Edit a team member
