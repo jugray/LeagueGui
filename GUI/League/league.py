@@ -1,5 +1,5 @@
-from identified_object import IdentifiedObject
-from DuplicateOid import DuplicateOid
+from League.identified_object import IdentifiedObject
+from League.DuplicateOid import DuplicateOid
 
 """
 League(IdentifiedObject)   (file name: league.py)

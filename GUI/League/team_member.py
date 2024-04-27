@@ -1,4 +1,4 @@
-from identified_object import IdentifiedObject
+from League.identified_object import IdentifiedObject
 
 """
 TeamMember(IdentifiedObject) --  (file name: team_member.py)

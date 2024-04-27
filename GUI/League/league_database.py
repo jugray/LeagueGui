@@ -1,7 +1,7 @@
 import pickle
 import csv
-from team import Team
-from team_member import TeamMember
+from League.team import Team
+from League.team_member import TeamMember
 
 class LeagueDatabase:
 
