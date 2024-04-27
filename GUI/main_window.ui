@@ -99,12 +99,12 @@
   <widget class="QStatusBar" name="statusbar"/>
   <action name="action_save_league">
    <property name="text">
-    <string>Save League</string>
+    <string>Save Database</string>
    </property>
   </action>
   <action name="action_load_league">
    <property name="text">
-    <string>Load League</string>
+    <string>Load Database</string>
    </property>
   </action>
  </widget>

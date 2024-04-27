@@ -1,6 +1,6 @@
-from League.identified_object import IdentifiedObject
-from League.DuplicateOid import DuplicateOid
-from League.DuplicateEmail import DuplicateEmail
+from GUI.League.identified_object import IdentifiedObject
+from GUI.League.DuplicateOid import DuplicateOid
+from GUI.League.DuplicateEmail import DuplicateEmail
 
 """
 Team(IdentifiedObject) --  (file name: team.py)

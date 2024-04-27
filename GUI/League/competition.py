@@ -1,4 +1,4 @@
-from League.identified_object import IdentifiedObject
+from GUI.League.identified_object import IdentifiedObject
 
 """
 Competition(IdentifiedObject) --  (file name: competition.py)

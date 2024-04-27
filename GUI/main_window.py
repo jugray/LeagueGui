@@ -5,8 +5,8 @@ from edit_league_dialog import EditLeagueDialog
 from new_league import NewLeagueDialog
 
 
-from League.league_database import LeagueDatabase
-from League.league import League
+from GUI.League.league_database import LeagueDatabase
+from GUI.League.league import League
 
 """
     Create a PyQt5 interface for the Curling League Manager.  Your interface must include the following windows:
