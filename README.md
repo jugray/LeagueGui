@@ -59,3 +59,7 @@ and then hit edit. Correct the loaded information to your liking and then save t
 update their roster information.  Team members can also be removed by selecting them from the roster
 and clicking "Delete Member"
 
+4.) Bugs
+-
+- No data restored when loading a pickled .ldb file containing
+a league_database instance.
